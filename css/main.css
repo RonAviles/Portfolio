@@ -946,6 +946,7 @@ hr {
 
 .portfolio-area .filter-control>li:not(:last-child) {
   margin-right: 16px;
+
 }
 
 .portfolio-area .filter-control>li:hover:before,
@@ -974,7 +975,7 @@ hr {
   height: 100%;
   opacity: 0;
   position: absolute;
-  transition: all 0.15s ease-in-out;
+  transition: all 0.20s ease-in-out;
   visibility: hidden;
   width: 100%;
   z-index: 1;
